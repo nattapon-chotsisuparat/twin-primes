@@ -16,6 +16,7 @@ def find_twin_primes(limit):
     return twin_primes
 
 # Input: Upper limit
+# Enter the upper limit to find twin primes
 upper_limit = int(input("Enter the upper limit to find twin primes: "))
 
 # Find and display twin primes
